@@ -1,4 +1,4 @@
-# **Demoblaze.com test automation**
+
 A cypress test automation project for demoblaze.com
 
 ## **Requirements**
